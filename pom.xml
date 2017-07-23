@@ -6,7 +6,7 @@
 	<groupId>com.travisgrey.english</groupId>
 	<artifactId>times-training</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>times-training</name>
 	<description>Training English Times</description>
